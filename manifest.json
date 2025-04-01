@@ -1,0 +1,9 @@
+{
+    "package": "QuestionIDAddon",
+    "name": "Question ID Display",
+    "author": "Your Name",
+    "version": "1.0.0",
+    "min_anki_version": "2.1.50",
+    "conflicts": [],
+    "mod": 1625097600
+}

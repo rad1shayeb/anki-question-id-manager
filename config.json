@@ -1,0 +1,9 @@
+{
+    "enabled": true,
+    "debug_mode": true,
+    "tag_patterns": [
+        "::\\d+$",
+        "#QID\\d+",
+        "\\[\\w+:\\d+\\]"
+    ]
+}
