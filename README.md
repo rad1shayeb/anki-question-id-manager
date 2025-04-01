@@ -1,9 +1,10 @@
 # Anki Question ID Manager
 
 **Anki Question ID Manager** is a powerful and user-friendly add-on for Anki that enhances your study experience by extracting and displaying question IDs embedded in your card tags. 
+
+---
 ![manager](Screenshot 2025-04-01 213654.png)
 ![config](Screenshot 2025-04-01 213731.png)
----
 
 ## Features
 
