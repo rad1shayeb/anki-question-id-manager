@@ -41,6 +41,8 @@
    - Navigate to **Tools > Add-ons > Open Add-ons Folder**.
    - Copy the entire `anki-question-id-manager` folder into the add-ons directory.
    - Restart Anki.
+Using AnkiWeb, You can download this add-on through copying and pasting the following code in **Tools > Add-On > Get Add-ons... > OK**
+1996839533
 
 3. **Configure the Add-on:**  
    - Go to **Tools > UWorld QID Config**.
